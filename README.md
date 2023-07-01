@@ -1,1 +1,1 @@
-# Home-Automation
+Home automation refers to the integration of various technologies and systems within a household to automate and control different aspects of home functionality and operations. It involves the use of smart devices, sensors, and connectivity solutions to enhance convenience, efficiency, comfort, and security in a residential setting.
